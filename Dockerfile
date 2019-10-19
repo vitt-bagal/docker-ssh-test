@@ -1,4 +1,4 @@
-ARG DistroVersion="7.5"
+ARG DistroVersion=7.5
 
 #Base image
 FROM registry.access.redhat.com/rhel:${DistroVersion}
